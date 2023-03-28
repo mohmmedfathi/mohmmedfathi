@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fathi</h1>
-<h3 align="center">I'm senior Bioinformatics student ,A passionate Backend developer and and Self-Directed Learner</h3>
+<h3 align="center">A passionate Backend developer and and Self-Directed Learner</h3>
 
 - 🔭 I’m currently working on **Backend Projects**
 
